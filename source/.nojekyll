@@ -1,8 +1,0 @@
-deploy:
-  - type: git
-    repo: https://github.com/yukunsun/yukunsun.github.io
-    branch: master
-    ignore_hidden: false
-
-include:
-  - .nojekyll
